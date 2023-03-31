@@ -2,7 +2,9 @@
 
 Referenced the following repository by the user nicholasjhana in order to create this repository. Thanks Nicholas!
 
-## Notebook Tasks Number Labeling For Easy Reference (i.e. 01a, where the "01" refers to Regression)
+## Notebook Tasks Number Labeling For Easy Reference
+
+(i.e. 01a, where the "01" refers to Regression)
 
 - `00`: Tensorflow Basics
 - `01`: Regression Task
