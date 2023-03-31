@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+TF_Certificate_Candidate_Handbook.pdf
 
 # C extensions
 *.so
